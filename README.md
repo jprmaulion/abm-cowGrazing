@@ -15,6 +15,8 @@
             &nbsp;&nbsp;&nbsp; 6.3.3. The health of the grass patch $h_{grass}$ will decrease by a factor $e_{grass}$. <br>
             &nbsp;&nbsp;&nbsp; 6.3.4. In the same manner, $\rho_{grass, grow}$ percent of the field will be selected to grow by a factor $g_{grass}$.
 
+## Sample simulation (time = 50 days):
+![Cow Growth Simulation](cowGrowth_forReadme.gif)
 
 ## Questions?
 If you have questions or anything that you'd like to raise, shoot me an email at jprmaulion[at]gmail[dot]com. 🐄
