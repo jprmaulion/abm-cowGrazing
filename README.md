@@ -9,7 +9,7 @@
 6. For each time step: <br>
     6.1. One cow (positioned at $x_{cow}, y_{cow}$) will be selected for feeding. <br>
     6.2. It will select among its neighbors for grass where $h_{grass} > 0$ (positioned at $x_{grass}, y_{grass}$) <br>
-    6.3. Once fed: <br>
+    6.3. Once the cow chooses a nearest healthy grass patch: <br>
             &nbsp;&nbsp;&nbsp; 6.3.1. The cow will move to that position ($x_{grass}, y_{grass}$) <br>
             &nbsp;&nbsp;&nbsp; 6.3.2. The health of the cow will increase by a factor $g_{cow}$. <br>
             &nbsp;&nbsp;&nbsp; 6.3.3. The health of the grass patch $h_{grass}$ will decrease by a factor $e_{grass}$. <br>
